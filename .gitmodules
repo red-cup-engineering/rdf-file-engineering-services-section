@@ -1,4 +1,4 @@
 [submodule "turtle-file-services-section"]
 	path = services/turtle-file-services-section
-	url = https://github.com/red-cup-engineering/turtle-file-services-section.git
+	url = https://github.com/red-cup-engineering/turtle-file-engineering-services-section.git
 	branch = main
